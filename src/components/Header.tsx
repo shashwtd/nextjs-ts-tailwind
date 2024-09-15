@@ -43,7 +43,7 @@ const HeaderNav = () => {
 				<div className="flex gap-3 items-center mt-1">
 					<Link
 						href={"/mentorships"}
-						className="group w-max h-9 p-1 gap-3 flex items-center rounded-full bg-neutral-300 shadow-lg shadow-transparent duration-300 hover:shadow-white/20">
+						className="group w-max h-9 p-1 gap-3 flex items-center rounded-full bg-neutral-300 hover:bg-neutral-200 shadow-lg shadow-transparent duration-300 hover:shadow-white/20">
 						<span className="text-neutral-800 font-semibold pl-3">
 							Book Mentorship
 						</span>
